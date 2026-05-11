@@ -5,7 +5,6 @@ module.exports = {
     phoneFormatted: "(909) 529-0322",
     address: {
         lineOne: "7000 Merrill Ave Hangar B110#C",
-        lineTwo: "Second Address Line",
         city: "Chino",
         state: "CA",
         zip: "91710",

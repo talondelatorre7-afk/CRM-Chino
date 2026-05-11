@@ -13,8 +13,8 @@
 @media only screen and (min-width: 0px) {
     :root {
         /* Aviation Red & Carbon Black Palette */
-        --primary: #E63946; 
-        --primaryLight: #ef4a56;
+        --primary: #FF0000; 
+        --primaryLight: #FF0000;
         --secondary: #111111; 
         --secondaryLight: #2b2b2b;
         --headerColor: #111111;
@@ -635,7 +635,7 @@
             background-color: var(--dark);
 
             .cs-logo {
-                filter: grayscale(1) brightness(1000%);
+                filter: grayscale(0) brightness(100%);
             }
 
             .cs-line {
@@ -872,7 +872,7 @@
             }
 
             .cs-drop-icon {
-                filter: grayscale(1) brightness(1000%);
+                filter: grayscale(0) brightness(100%);
             }
         }
     }
@@ -991,7 +991,7 @@
             background-color: var(--dark);
 
             .cs-logo {
-                filter: grayscale(1) brightness(1000%);
+                filter: grayscale(0) brightness(100%);
             }
 
             .cs-li-link {
